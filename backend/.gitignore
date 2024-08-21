@@ -1,9 +1,6 @@
 .idea/
 .vscode/
 
-# Node
-node_modules/
-
 # Django
 local_settings.py
 db.sqlite3
